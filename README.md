@@ -1,6 +1,6 @@
 ### 👋 Olá, bem-vindo(a) ao meu perfil do GitHub!
 
-🚀 Tenho interesse em **Data Science**,**DevOps** e , principalmente, no **Desenvolvimento de Software**
+🚀 Tenho interesse em **Data Science** e **Desenvolvimento de Software**
 
 ### 🌟 Habilidades e Tecnologias
 
