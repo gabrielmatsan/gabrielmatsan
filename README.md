@@ -2,7 +2,7 @@
 
 ----
 
-🚀 Tenho interesse em **Data Science** e **Desenvolvimento de Software**, com foco em construção de APIs!
+🚀 Tenho interesse em **Data Science** e **Desenvolvimento de Software**
 
 ----
 
