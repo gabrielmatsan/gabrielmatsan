@@ -1,5 +1,5 @@
-### 👋 Hi, Welcome to my GitHub Profile!
-![Descrição da imagem](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUzMTQxNjYsIm5iZiI6MTczNTMxMzg2NiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI3VDE1Mzc0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzNWUwZjNhMmY5NGNlMTQyYjNkMjViMTczZjgxNDg5ZjM3MmE4N2JlOTMxNTg0YjlmOWJmNDhjOWI2YTVkNDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pAemBThHDip53ddMrV0qS09N9uJ_8LxzIEilx0Nw3Rc)
+#### 👋 Hi, Welcome to my GitHub Profile!
+
 
 ----
 🚀 I'm interessed in **Software Development** and **DevOps**
