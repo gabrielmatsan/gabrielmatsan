@@ -11,7 +11,7 @@
 ```go
 Gabriel := map[string]interface{}{
     "age":           "⏳ 23 years",
-    "work":          "✨ Back-End intern at Tucupy Tecnologia",
+    "work":          "✨ Backend intern at Tucupy Tecnologia",
     "studying":      []string{"📚 TypeScript", "Go", "PostgreSQL", "Docker", "GitHub Actions"},
     "education":     "🎓 Majoring in Computer Science at CESUPA",
     "mainLanguages": []string{"👩🏻‍💻 TypeScript", "Golang"},
