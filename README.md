@@ -1,25 +1,35 @@
 #### 👋 Hi, Welcome to my GitHub Profile!
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;TypeScript+and+Go+Enthusiast;Always+Learning&center=true&width=380&height=45">
+</div>
 
-----
-🚀 I'm a **Software Engineer**
-----
+## 👨‍💻 About Me
 
 ```go
 Gabriel := map[string]interface{}{
-        "age":           "⏳ 22 years",
-        "work":          "✨ Back-End intern at Tucupy Tecnologia",
-        "studying":      []string{"📚 TypeScript", "Go", "PostgreSQL", "Docker", "Github Actions"},
-        "education":     "🎓 Majoring in Computer Science at CESUPA",
-        "mainLanguages": []string{"👩🏻‍💻 Typescript", "Golang"},
-        "aboutMe":       []string{"🎬 I like watch movies and play video games","CS player and Metal Gear's fan"},
-    }
+    "age":           "⏳ 22 years",
+    "work":          "✨ Back-End intern at Tucupy Tecnologia",
+    "studying":      []string{"📚 TypeScript", "Go", "PostgreSQL", "Docker", "GitHub Actions"},
+    "education":     "🎓 Majoring in Computer Science at CESUPA",
+    "mainLanguages": []string{"👩🏻‍💻 TypeScript", "Golang"},
+    "aboutMe":       []string{"🎬 I like watch movies and play video games", "CS player and Metal Gear's fan"},
+}
 ```
 ----
+#### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmatsan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gabrielmatsan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmatsan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <a href="https://github.com/gabrielmatsan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmatsan&theme=tokyonight" alt="gabrielmatsan's streak" />
+  </a>
 </div>
 
-###
+----
+
+#### 📫 Contact Me
+
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mattos-teixeira-dos-santos-53b469297/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmatsan@hotmail.com)
+  
