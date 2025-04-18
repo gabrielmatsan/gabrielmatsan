@@ -1,7 +1,7 @@
 #### 👋 Hi, Welcome to my GitHub Profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;TypeScript+and+Go;Always+Learning&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;TypeScript+and+Go;Always+Learning&center=true&width=380&height=45">
 </div>
 
 ## 📌 About Me
