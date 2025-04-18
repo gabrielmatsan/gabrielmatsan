@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;TypeScript+and+Go;Always+Learning&center=true&width=380&height=45">
 </div>
 
-## 📌 About Me
+#### 📌 About Me
 
 ```go
 Gabriel := map[string]interface{}{
