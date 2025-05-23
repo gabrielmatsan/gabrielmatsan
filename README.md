@@ -16,6 +16,7 @@ Gabriel := map[string]interface{}{
     "education":     "🎓 Majoring in Computer Science at CESUPA",
     "mainLanguages": []string{"👩🏻‍💻 TypeScript", "Golang"},
     "aboutMe":       []string{"🎬 I like watch movies and play video games", "CS player and Metal Gear's fan"},
+    "architectures": []string{"microservices", "clean architecture", "Domain-Driven Design"}
 }
 ```
 ----
