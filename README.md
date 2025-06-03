@@ -23,11 +23,11 @@ Gabriel := map[string]interface{}{
 #### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/gabrielmatsan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmatsan&theme=tokyonight" alt="gabrielmatsan's streak" />
-  </a>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmatsan&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmatsan&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
+</div>
 ----
 
 #### 📫 Contact Me
