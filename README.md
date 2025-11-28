@@ -15,6 +15,7 @@ Gabriel := map[string]interface{}{
     "studying":      []string{"📚 Terraform", "AWS", "Docker", "GitHub Actions", "Redis"},
     "education":     "🎓 Majoring in Computer Science at CESUPA",
     "mainLanguages": []string{"👩🏻‍💻 TypeScript", "Golang", "Java"},
+    "databases":     []string{"PostgreSQL", "Redis", "MongoDB"}
     "architectures": []string{"microservices", "clean architecture", "Domain-Driven Design"}
     "aboutMe":       []string{"🎬 I like watch movies and play video games", "CS player and Metal Gear's fan"},
 }
