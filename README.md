@@ -1,7 +1,7 @@
 ### ***Hi, This is my Github Profile*** :octocat:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Typescript+and+Go;Always+Learning&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Typescript+and+Java;Always+Learning&center=true&width=380&height=45">
 </div>
 
 
