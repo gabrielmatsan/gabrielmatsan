@@ -8,17 +8,17 @@
 ----
 #### 📌 About Me 
 
-```go
-Gabriel := map[string]interface{}{
-    "age":           "⏳ 23 years",
-    "work":          "✨ Backend Developer intern at Tucupy Tecnologia",
-    "studying":      []string{"📚 Terraform", "AWS", "Docker", "GitHub Actions", "Redis"},
-    "education":     "🎓 Majoring in Computer Science at CESUPA",
-    "mainLanguages": []string{"👩🏻‍💻 TypeScript", "Golang", "Java"},
-    "databases":     []string{"PostgreSQL", "Redis", "MongoDB"}
-    "architectures": []string{"microservices", "clean architecture", "Domain-Driven Design"}
-    "aboutMe":       []string{"🎬 I like watch movies and play video games", "CS player and Metal Gear's fan"},
-}
+```typescript
+const Gabriel = {
+  age: "⏳ 23 years",
+  work: "✨ Backend Developer intern at Tucupy Tecnologia",
+  studying: ["📚 Terraform", "AWS", "Docker", "GitHub Actions", "Redis"],
+  education: "🎓 Majoring in Computer Science at CESUPA",
+  mainLanguages: ["👩🏻‍💻 TypeScript", "Golang", "Java"],
+  databases: ["PostgreSQL", "Redis", "MongoDB"],
+  architectures: ["microservices", "clean architecture", "Domain-Driven Design"],
+  aboutMe: ["🎬 I like watch movies and play video games", "CS player and Metal Gear's fan"],
+};
 ```
 ----
 #### 📊 GitHub Stats
