@@ -29,11 +29,11 @@ projects:
   - repo: "gabrielmatsan/forum-api"
     description: "Forum API built with clean architecture and DDD"
     arm: 0
-  - repo: "gabrielmatsan/ignite-node"
-    description: "Node.js projects and challenges from Rocketseat"
+  - repo: "gabrielmatsan/brev-ly"
+    description: "Project Fullstack, usando Node, React e Terraform"
     arm: 0
-  - repo: "gabrielmatsan/gabrielmatsan"
-    description: "My GitHub profile with galaxy-themed visuals"
+  - repo: "gabrielmatsan/checkin-gate"
+    description: "on development..."
     arm: 1
 
 # theme:
