@@ -20,7 +20,7 @@ galaxy_arms:
     items: ["TypeScript", "Golang", "Java", "Node.js"]
   - name: "Infrastructure"
     color: "dendrite_violet"
-    items: ["Docker", "Terraform", "AWS", "GitHub Actions"]
+    items: ["Docker", "Terraform", "AWS", "GitHub Actions", "Kubernetes"]
   - name: "Data"
     color: "axon_amber"
     items: ["PostgreSQL", "Redis", "MongoDB"]
