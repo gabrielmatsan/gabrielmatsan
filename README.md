@@ -37,13 +37,3 @@ const Gabriel = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-mattos-teixeira-dos-santos-53b469297/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmatsan@hotmail.com)
-
-----
-
-### 🎧 Now Playing on the Ship's Radio
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmatsan&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&profanity=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=gabrielmatsan&redirect=true)
-
-</div>
