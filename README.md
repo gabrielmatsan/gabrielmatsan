@@ -20,7 +20,7 @@
 
 ```typescript
 const Gabriel = {
-  age: "23 years",
+  age: "24 years",
   work: "Backend Developer intern at Tucupy Tecnologia",
   studying: ["Terraform", "AWS", "Docker", "GitHub Actions", "Redis"],
   education: "Majoring in Computer Science at CESUPA",
