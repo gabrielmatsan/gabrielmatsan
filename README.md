@@ -21,7 +21,7 @@
 ```typescript
 const Gabriel = {
   age: "24 years",
-  work: "Backend Developer intern at Tucupy Tecnologia",
+  work: "Software Engineer at Tucupy Tecnologia",
   studying: ["Terraform", "AWS", "Docker", "GitHub Actions", "Redis"],
   education: "Majoring in Computer Science at CESUPA",
   mainLanguages: ["TypeScript", "Golang", "Java"],
