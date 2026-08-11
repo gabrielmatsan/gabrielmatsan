@@ -21,8 +21,8 @@
 ```typescript
 const Gabriel = {
   age: "24 years",
-  work: "Software Engineer at Tucupy Tecnologia",
-  studying: ["Terraform", "AWS", "Docker", "GitHub Actions", "Redis"],
+  work: "Software Engineer at Accenture",
+  studying: ["Terraform", "AWS", "Azure", "Docker", "GitHub Actions", "Redis"],
   education: "Majoring in Computer Science at CESUPA",
   mainLanguages: ["TypeScript", "Golang", "Java"],
   databases: ["PostgreSQL", "Redis", "MongoDB"],
